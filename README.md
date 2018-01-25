@@ -25,4 +25,15 @@ Battleship is a small two player game.
 	•	The players take turns choosing a position on the opponent’s grid to attack   
 
 
-#Screen Shots:
+#Steps to build the game:
+
+	•	Download or Clone this project. 
+	•	Go to Battleship_T directory.
+	•	Run the following command:  
+			```
+			$ npm install
+			```  
+	•	Finally to run the game, run this command:  
+			```
+			$ npm start
+			```  
