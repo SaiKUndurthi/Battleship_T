@@ -45,5 +45,5 @@ Battleship is a small two player game.
 
 <a href="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Sunk.JPG" target="_blank"><img src="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Sunk.JPG" width="300" height="500" style="max-width:100%;"></a>
 <a href="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Winner.JPG" target="_blank"><img src="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Winner.JPG" width="300" height="500" style="max-width:100%;"></a>
-</p>
+
 
