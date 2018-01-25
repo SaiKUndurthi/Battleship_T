@@ -36,4 +36,14 @@ Battleship is a small two player game.
 	•	Finally to run the game, run this command:  
 			```
 			$ npm start
-			```  
+			```
+#Screen Shots:
+<a href="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Initial.JPG" target="_blank"><img src="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Initial.JPG" width="300" height="500" style="max-width:100%;"></a>
+<a href="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Player_Grids.JPG" target="_blank"><img src="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Player_Grids.JPG" width="300" height="500" style="max-width:100%;"></a>
+<a href="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Player_1_Hit.JPG" target="_blank"><img src="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Player_1_Hit.JPG" width="300" height="500" style="max-width:100%;"></a>
+<a href="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Player_2_Miss.JPG" target="_blank"><img src="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Player_2_Miss.JPG" width="300" height="500" style="max-width:100%;"></a>
+
+<a href="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Sunk.JPG" target="_blank"><img src="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Sunk.JPG" width="300" height="500" style="max-width:100%;"></a>
+<a href="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Winner.JPG" target="_blank"><img src="https://github.com/SaiKUndurthi/ChatHub/blob/master/screenshots/Winner.JPG" width="300" height="500" style="max-width:100%;"></a>
+</p>
+
