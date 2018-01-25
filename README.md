@@ -38,12 +38,14 @@ Battleship is a small two player game.
 			$ npm start
 			```
 #Screen Shots:
-<a href="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Initial.JPG" target="_blank"><img src="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Initial.JPG" width="300" height="500" style="max-width:100%;"></a>
-<a href="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Player_Grids.JPG" target="_blank"><img src="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Player_Grids.JPG" width="300" height="500" style="max-width:100%;"></a>
-<a href="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Player_1_Hit.JPG" target="_blank"><img src="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Player_1_Hit.JPG" width="300" height="500" style="max-width:100%;"></a>
-<a href="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Player_2_Miss.JPG" target="_blank"><img src="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Player_2_Miss.JPG" width="300" height="500" style="max-width:100%;"></a>
+![initial](https://user-images.githubusercontent.com/11358883/35365533-e6ab9712-0129-11e8-86df-5bf064d69aab.JPG)
 
-<a href="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Sunk.JPG" target="_blank"><img src="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Sunk.JPG" width="300" height="500" style="max-width:100%;"></a>
-<a href="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Winner.JPG" target="_blank"><img src="https://github.com/SaiKUndurthi/Battleship_T/tree/master/screenshots/Winner.JPG" width="300" height="500" style="max-width:100%;"></a>
+![player_1_hit](https://user-images.githubusercontent.com/11358883/35365566-1ef109cc-012a-11e8-8f9a-ce10d452e624.JPG)
 
+![player_2_miss](https://user-images.githubusercontent.com/11358883/35365575-2d050f86-012a-11e8-90c8-77b6ff25f040.JPG)
 
+![player_grids](https://user-images.githubusercontent.com/11358883/35365599-4d1b6c34-012a-11e8-8981-3ad64787c551.JPG)
+
+![sunk](https://user-images.githubusercontent.com/11358883/35365606-5a319722-012a-11e8-82e4-06991a62b434.JPG)
+
+![winner](https://user-images.githubusercontent.com/11358883/35365616-646f49f0-012a-11e8-8617-2e7ae66d5707.JPG)
